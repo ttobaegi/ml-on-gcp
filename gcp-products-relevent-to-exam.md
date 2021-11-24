@@ -1,41 +1,7 @@
-# The Google Cloud Developer's Cheat Sheet
-Every product in the Google Cloud family described in <=4 words (with liberal use of hyphens and slashes :smirk:)\
-by the Google Developer Relations Team\
-<a target="_blank" href="DarkPoster-medres.png"><img border="1" alt="Google Cloud Developer's Cheat Sheet Poster Image" src="DarkPoster-lowres.png"></a>\
-White background:
-[Poster PDF](Poster.pdf)
-|
-[Brochure PDF](Brochure.pdf)
-|
-[High-resolution PNG](Poster-hires.png)
-|
-[Medium-res PNG](Poster-medres.png)
-|
-[Low-res PNG](Poster-lowres.png)\
-Dark background:
-[Poster PDF](DarkPoster.pdf)
-|
-[Brochure PDF](DarkBrochure.pdf)
-|
-[High-resolution PNG](DarkPoster-hires.png)
-|
-[Medium-res PNG](DarkPoster-medres.png)
-|
-[Low-res PNG](DarkPoster-lowres.png)
+# GCP-products relevent to certificate
 
-Desktop Wallpapers: [16:9 (iMac, etc.)](Wallpaper-16-9.png) | [16:10 (Macbook Pro)](Wallpaper-16-10.png) | [4:3 (Older computers)](Wallpaper-4-3.png) | [3:2 (Pixelbook)](Wallpaper-3-2.png)
 
-Text descriptions with links are below
-
-Suggestions for better descriptions? Missing products? Pull requests are welcome on README.md (this file).
-
-Feedback? <img width="40" valign="middle" src="https://storage.googleapis.com/gregsramblings-downloads/Twitter_Logo_Blue.png">[@pvergadia](https://twitter.com/pvergadia) or [@gregsramblings](https://twitter.com/gregsramblings). 
-
-**Note:** This list only includes products that are publicly available. There are several products in pre-release/private-alpha that will not be included until they go public beta or GA.
-
-Fun flashback - [here's the list of products in 2014](https://web.archive.org/web/20140702161745/https://cloud.google.com/products/)
-
-Many of these products have a [free tier](https://cloud.google.com/free/). There is also a [free trial](https://console.cloud.google.com/freetrial) that will enable you try almost everything.
+[the list of products in 2014](https://web.archive.org/web/20140702161745/https://cloud.google.com/products/)
 
 ----------------------------
 # All Products
@@ -43,8 +9,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 <sup>:page_facing_up:-Documentation</sup>
 
 ### Compute
-
-
 * **Cloud Functions**: Event-driven serverless functions [<sup>:link:</sup>](https://cloud.google.com/functions/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/functions/docs/)
 * **App Engine**: Managed app platform [<sup>:link:</sup>](https://cloud.google.com/appengine/) 
 [<sup>:page_facing_up:</sup>](https://cloud.google.com/appengine/docs/)
@@ -58,14 +22,12 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **VMware Engine**: VMware as a service [<sup>:link:</sup>](https://cloud.google.com/vmware-engine) [<sup>:page_facing_up:</sup>](https://cloud.google.com/vmware-engine/docs)
 
 ### Storage
-  
 * **Cloud Filestore**: Managed NFS server [<sup>:link:</sup>](https://cloud.google.com/filestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/filestore/docs/)
 * **Cloud Storage**: Multi-class multi-region object storage[<sup>:link:</sup>](https://cloud.google.com/storage/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/storage/docs/)
 * **Persistent Disk**: Block storage for VMs [<sup>:link:</sup>](https://cloud.google.com/persistent-disk/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/)
 * **Local SSD**: VM locally attached SSDs [<sup>:link:</sup>](https://cloud.google.com/local-ssd) [<sup>:page_facing_up:</sup>](https://cloud.google.com/compute/docs/disks/local-ssd)
   
-### Database 
-  
+### Database  
 * **Cloud Bigtable**: Petabyte-scale, low-latency, non-relational [<sup>:link:</sup>](https://cloud.google.com/bigtable/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigtable/docs/)
 * **Cloud Firestore**: Serverless NoSQL document DB [<sup>:link:</sup>](https://cloud.google.com/firestore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/firestore/docs/)
 * **Cloud Memorystore**: Managed Redis and Memcached [<sup>:link:</sup>](https://cloud.google.com/memorystore/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/memorystore/docs/)
@@ -75,7 +37,6 @@ Many of these products have a [free tier](https://cloud.google.com/free/). There
 * **Cloud SQL Insights**: SQL Inspector [<sup>:link:</sup>](https://cloud.google.com/sql/docs/postgres/insights-overview) [<sup>:page_facing_up:</sup>](https://cloud.google.com/sql/docs/postgres/using-insights)
   
 ### Data and Analytics 
-  
 * **BigQuery**: Data warehouse/analytics [<sup>:link:</sup>](https://cloud.google.com/bigquery/) [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery/docs/)
 * **BigQuery BI Engine**: In-memory analytics engine [<sup>:page_facing_up:</sup>](https://cloud.google.com/bi-engine/docs/)
 * **BigQuery ML**: BigQuery model training/serving [<sup>:page_facing_up:</sup>](https://cloud.google.com/bigquery-ml/docs/)
