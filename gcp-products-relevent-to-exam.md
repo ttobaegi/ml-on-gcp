@@ -1,9 +1,12 @@
 # GCP-products relevent to certificate
 
-
-[the list of products in 2014](https://web.archive.org/web/20140702161745/https://cloud.google.com/products/)
+* *[Source of this conetent](https://github.com/priyankavergadia/google-cloud-4-words)*
 
 ----------------------------
+* [the list of products in 2014](https://web.archive.org/web/20140702161745/https://cloud.google.com/products/)
+------
+
+
 # All Products
 <sup>:link:-Product page</sup>
 <sup>:page_facing_up:-Documentation</sup>
