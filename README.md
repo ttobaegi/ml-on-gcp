@@ -1,16 +1,16 @@
 # ML ON GCP
 > 1. MLOps (Machine Learning Operations) Fundamentals
-> 1. Launching into Machine Learning
-> 1. How Google does Machine Learning
-> 1. Feature Engineering
-> 1. ML Pipelines on Google Cloud
-> 1. Art and Science of Machine Learning
-> 1. Introduction to TensorFlow
-> 1. Google Cloud Big Data and Machine Learning Fundamentals
-> 1. Production Machine Learning Systems
+> 2. Launching into Machine Learning
+> 3. How Google does Machine Learning
+> 4. Feature Engineering
+> 5. ML Pipelines on Google Cloud
+> 6. Art and Science of Machine Learning
+> 7. Introduction to TensorFlow
+> 8. Google Cloud Big Data and Machine Learning Fundamentals
+> 9. [Production Machine Learning Systems](#Production-Machine-Learning-Systems-Readings)
 
 
-## 9. Production Machine Learning Systems Readings
+## Production Machine Learning Systems Readings
 *production ML systems, training and model serving decisions you make to get the right performance profile*.
 
 ### 9-1. Architecting Production ML Systems
