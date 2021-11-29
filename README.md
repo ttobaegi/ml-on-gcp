@@ -10,10 +10,10 @@
 > 1. Production Machine Learning Systems
 
 
-## Architecting Production ML Systems Readings
+## 9. Production Machine Learning Systems Readings
 *production ML systems, training and model serving decisions you make to get the right performance profile*.
 
-### 1: Architecting Production ML Systems
+### 9-1. Architecting Production ML Systems
 - [Architecture of a real-world Machine Learning system](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646)
 - [ML Reference Architecture](https://freeandopenmachinelearning.readthedocs.io/en/latest/architecture.html#ml-reference-architecture)
 - [Machine Learning Pipeline: Architecture of ML Platform](https://www.altexsoft.com/blog/machine-learning-pipeline/) [in Production](https://www.altexsoft.com/blog/machine-learning-pipeline/)
@@ -34,7 +34,7 @@
 - [Vertex AI: Building a fraud detection model with AutoML](https://codelabs.developers.google.com/vertex-automl-tabular)
 
 
-### 2: Designing Adaptable ML Systems
+### 9-2. Designing Adaptable ML Systems
 - [Deep Learning AI Needs Tools To Adapt To Changes In](https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/#5c1a6f8c4414) [The Data Environment](https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/#5c1a6f8c4414)
 - [MACHINE LEARNING FOR FUTURE SYSTEM DESIGNS](https://www.nextplatform.com/2020/10/29/machine-learning-for-future-system-designs/)
 - [Three Risks in Building Machine Learning Systems](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html)
@@ -45,7 +45,7 @@
 - [Productionizing Behavioural Features for Machine Learning](https://databricks.com/session/productionizing-behavioural-features-for-machine-learning-with-apache-spark-streaming) [with Apache Spark ](https://databricks.com/session/productionizing-behavioural-features-for-machine-learning-with-apache-spark-streaming)[Streaming](https://databricks.com/session/productionizing-behavioural-features-for-machine-learning-with-apache-spark-streaming)
 - [TensorFlow Data Validation: Checking and analyzing](https://www.tensorflow.org/tfx/guide/tfdv) [your data](https://www.tensorflow.org/tfx/guide/tfdv)
 
-### 3: Designing High-performance ML Systems
+### 9-3. Designing High-performance ML Systems
 - [How to Evaluate the Performance of Your Machine Learning](https://www.kdnuggets.com/2020/09/performance-machine-learning-model.html) [Model](https://www.kdnuggets.com/2020/09/performance-machine-learning-model.html)
 - [Best practices for performance and cost optimization](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost) [for machine learning](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost)
 - [How To Improve Machine Learning Model Performance:](https://www.anolytics.ai/blog/how-to-improve-machine-learning-model-performance/) [Five Ways](https://www.anolytics.ai/blog/how-to-improve-machine-learning-model-performance/)
@@ -57,7 +57,7 @@
 - [Distributed training with TensorFlow](https://www.tensorflow.org/guide/distributed_training)
 - [AutoML Tables](https://cloud.google.com/automl-tables)
 
-### 4: Hybrid ML Systems
+### 9-4. Hybrid ML Systems
 - [Kubeflow](https://www.kubeflow.org/)
 - [Introduction to Kubeflow](https://youtu.be/cTZArDgbIWw)
 - [Orchestrating TFX Pipelines](https://www.tensorflow.org/tfx/guide/kubeflow#kubeflow_pipelines)
