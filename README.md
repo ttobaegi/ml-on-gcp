@@ -1,4 +1,4 @@
-# ML ON GCP
+> **ML ON GCP**
 > 1. MLOps (Machine Learning Operations) Fundamentals
 > 2. Launching into Machine Learning
 > 3. How Google does Machine Learning
@@ -10,10 +10,10 @@
 > 9. [Production Machine Learning Systems](#Production-Machine-Learning-Systems-Readings)
 
 
-## Production Machine Learning Systems Readings
+# Production Machine Learning Systems Readings
 *production ML systems, training and model serving decisions you make to get the right performance profile*.
 
-### 9-1. Architecting Production ML Systems
+## 9-1. Architecting Production ML Systems
 - [Architecture of a real-world Machine Learning system](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646)
 - [ML Reference Architecture](https://freeandopenmachinelearning.readthedocs.io/en/latest/architecture.html#ml-reference-architecture)
 - [Machine Learning Pipeline: Architecture of ML Platform](https://www.altexsoft.com/blog/machine-learning-pipeline/) [in Production](https://www.altexsoft.com/blog/machine-learning-pipeline/)
@@ -34,7 +34,7 @@
 - [Vertex AI: Building a fraud detection model with AutoML](https://codelabs.developers.google.com/vertex-automl-tabular)
 
 
-### 9-2. Designing Adaptable ML Systems
+## 9-2. Designing Adaptable ML Systems
 - [Deep Learning AI Needs Tools To Adapt To Changes In](https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/#5c1a6f8c4414) [The Data Environment](https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/#5c1a6f8c4414)
 - [MACHINE LEARNING FOR FUTURE SYSTEM DESIGNS](https://www.nextplatform.com/2020/10/29/machine-learning-for-future-system-designs/)
 - [Three Risks in Building Machine Learning Systems](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html)
@@ -57,7 +57,7 @@
 - [Distributed training with TensorFlow](https://www.tensorflow.org/guide/distributed_training)
 - [AutoML Tables](https://cloud.google.com/automl-tables)
 
-### 9-4. Hybrid ML Systems
+## 9-4. Hybrid ML Systems
 - [Kubeflow](https://www.kubeflow.org/)
 - [Introduction to Kubeflow](https://youtu.be/cTZArDgbIWw)
 - [Orchestrating TFX Pipelines](https://www.tensorflow.org/tfx/guide/kubeflow#kubeflow_pipelines)
