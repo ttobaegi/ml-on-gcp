@@ -1,11 +1,17 @@
 # _5.	Feature Engineering_
 
+
 ## _BQML_
 > - Remove examples that you don’t want to train on.
 > - Compute vocabularies for categorical columns.
 > - Compute aggregate statistics for numeric columns.
 > - Consider advanced feature engineering using
 > - `ML.FEATURE_CROSS`, `TRANSFORM`, and `BUCKETIZE`
+
+- ML.FEATURE_CROSS(STRUCT(features)) does a feature cross of all the combinations.
+- ML.POLYNOMIAL_EXPAND(STRUCT(features), degree) creates x, x2, x3, etc.
+- ML.BUCKETIZE(f, split_points) where split_points is an array
+
 
 ## _Apache Beam/Cloud Dataflow_
 
