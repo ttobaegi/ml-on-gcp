@@ -2,7 +2,13 @@
 
 
 ## _5-8. Exploring tf.transform_
+
+#### 3 Possible places to do feature engineering 
+![image](https://user-images.githubusercontent.com/79742748/145672165-3d376ce1-2176-47ff-add6-aa5cc09355ed.png)
+
 #### `tf.transform` 
+
+
 - Implement feature preprocessing and feature creation / Carry out feature processing efficiently, at scale and on streaming data.
 - Define preprocessing pipelines and run these using large scale data processing frameworks, while also exporting the pipeline in a way that can be run as part of a TensorFlow graph.
 
