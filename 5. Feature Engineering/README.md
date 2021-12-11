@@ -8,8 +8,8 @@
 > - Consider advanced feature engineering using
 > - `ML.FEATURE_CROSS`, `TRANSFORM`, and `BUCKETIZE`
 
-- ML.FEATURE_CROSS(STRUCT(features)) does a feature cross of all the combinations.
-- ML.POLYNOMIAL_EXPAND(STRUCT(features), degree) creates x, x2, x3, etc.
+- `ML.FEATURE_CROSS(STRUCT(features))` does a feature cross of all the combinations.
+- `ML.POLYNOMIAL_EXPAND(STRUCT(features), degree)` creates x, x2, x3, etc.
 - ML.BUCKETIZE(f, split_points) where split_points is an array
 
 
