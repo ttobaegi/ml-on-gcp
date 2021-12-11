@@ -7,7 +7,7 @@
 
    ![image](https://user-images.githubusercontent.com/79742748/145672165-3d376ce1-2176-47ff-add6-aa5cc09355ed.png)
     
-    - Adding Arbitrary
+    - Running a Dataflow pipeline in prediction seems a bit like overkill.
 
 - tf.transform is a part of TFX, component used to analyze and transform training data
   
