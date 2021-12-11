@@ -1,6 +1,12 @@
 # _5.	Feature Engineering_
 
-
+## 
+BQML feature engineering 
+> - Remove examples that you don’t want to train on.
+> - Compute vocabularies for categorical columns.
+> - Compute aggregate statistics for numeric columns.
+> - Consider advanced feature engineering using
+> - `ML.FEATURE_CROSS`, `TRANSFORM`, and `BUCKETIZE`
 ## _5-8. Exploring tf.transform_
 
 - 3 Possible places to do feature engineering 
