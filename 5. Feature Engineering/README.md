@@ -10,7 +10,7 @@
 
 - `ML.FEATURE_CROSS(STRUCT(features))` does a feature cross of all the combinations.
 - `ML.POLYNOMIAL_EXPAND(STRUCT(features), degree)` creates x, x2, x3, etc.
-- ML.BUCKETIZE(f, split_points) where split_points is an array
+- `ML.BUCKETIZE(f, split_points)` where split_points is an array
 
 
 ## _Apache Beam/Cloud Dataflow_
