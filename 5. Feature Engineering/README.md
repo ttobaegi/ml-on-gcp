@@ -3,8 +3,15 @@
 
 ## _5-8. Exploring tf.transform_
 
-#### 3 Possible places to do feature engineering 
-![image](https://user-images.githubusercontent.com/79742748/145672165-3d376ce1-2176-47ff-add6-aa5cc09355ed.png)
+- 3 Possible places to do feature engineering 
+
+   ![image](https://user-images.githubusercontent.com/79742748/145672165-3d376ce1-2176-47ff-add6-aa5cc09355ed.png)
+
+
+- tf.transform is a part of TFX
+  
+  ![image](https://user-images.githubusercontent.com/79742748/145674838-746899fb-1382-448b-9b1c-ba7cc48ee6a4.png)
+
 
 #### `tf.transform` 
 
