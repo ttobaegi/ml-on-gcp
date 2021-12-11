@@ -1,13 +1,21 @@
 # _5.	Feature Engineering_
 
-## 
-BQML feature engineering 
+## _BQML_
 > - Remove examples that you don’t want to train on.
 > - Compute vocabularies for categorical columns.
 > - Compute aggregate statistics for numeric columns.
 > - Consider advanced feature engineering using
 > - `ML.FEATURE_CROSS`, `TRANSFORM`, and `BUCKETIZE`
-## _5-8. Exploring tf.transform_
+
+## _Apache Beam/Cloud Dataflow_
+
+
+## _tf.data_
+Wrap the dataframe with `tf.data` ; use feature columns as bridge to map from the columns in the Pandas dataframe to features use
+
+
+
+## _tf.transform_
 
 - 3 Possible places to do feature engineering 
 
